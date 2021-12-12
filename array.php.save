@@ -1,0 +1,13 @@
+	<?php
+	// Array single
+	$arr = ['guilherme', 'joao'];
+	$arr = array('guiherme2', 'joao2');
+
+	$arr[0] = 'guilherme';
+	$arr[] = 'joao';
+
+	//Array Multidimensionais
+	$arr2 = array(array('guilherme', 'joao'), array(23, 45));
+	
+	echo $arr2[1][0];
+?>

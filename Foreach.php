@@ -12,5 +12,6 @@
     for ($i=0; $i<$total; $i++){
         echo $arr[$i];
         echo '<br>';
+        
     }
 ?>

@@ -1,0 +1,16 @@
+<?php
+// Sleep dorme o  código por x /*segundos
+	sleep(3);
+
+	echo 'um';
+
+	sleep(3);
+
+	echo 'dois';
+
+	sleep(3);
+
+	echo 'tres';
+
+
+?>
