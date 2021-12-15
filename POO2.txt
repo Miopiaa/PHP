@@ -1,0 +1,21 @@
+orientação a objetos PHP ou OOP
+
+    $var
+    $define();
+    func();
+
+    //objeto é a pessoa que é uma classe
+    Pessoa
+    {
+        //atributos sao variaveis ou nao
+        nome
+        idade
+        peso
+
+        //metodos sao ações
+        crescer()
+        comer()
+
+        // instanciar
+         $pessoa = new Pessoa;
+    }
